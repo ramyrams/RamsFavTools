@@ -16,9 +16,14 @@
 * ASP.NET Identity
 * Entity Framework
 * LINQ
+* WCF
+* WPF
+* SQL Server
+* Visual Studio
 
 ## Frontend Development
 * AngularJS
+* HTML5 
 * Bootstrap
 * FontAwesome
 
