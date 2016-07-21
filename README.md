@@ -5,8 +5,8 @@
 * [ScreenToGif](https://screentogif.codeplex.com/) - This tool allows you to record a selected area of your screen and save it as a Gif.
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
 * [File Checksum Integrity Verifier (FCIV)](The File Checksum Integrity Verifier (FCIV) is a command-prompt utility that computes and verifies cryptographic hash values of files.)
-* [7zip]
-* 
+* [7zip](http://www.7-zip.org/)
+
 
 ## .NET Development
 * .NET Code
