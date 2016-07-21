@@ -31,6 +31,7 @@
 MockServer
 http://www.mocky.io/ - Mocky is a simple app which allows to generate custom HTTP responses. 
 http://mockbin.org/
+https://jsonplaceholder.typicode.com/
 
 
 
