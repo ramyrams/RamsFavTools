@@ -14,7 +14,7 @@
 ## Web API Development
 * Fiddler
 * Postman
-* Curl
+* [Curl](https://curl.haxx.se/download.html)
 
 
 
