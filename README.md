@@ -12,7 +12,7 @@
 * FontAwesome
 
 ## Web API Development
-* Fiddler
+* [Fiddler](http://www.telerik.com/fiddler) 
 * Postman
 * [Curl](https://curl.haxx.se/download.html)
 
